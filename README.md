@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Dimplejs
 To install dimplejs via npm, use the command: 
-'npm install git+https://github.com/PMSI-AlignAlytics/dimple.git --save'
+`npm install git+https://github.com/PMSI-AlignAlytics/dimple.git --save`
 
 ## Development server
 
