@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.0.
 
-#Dimplejs
+# Dimplejs
 To install dimplejs via npm, 
 npm install git+https://github.com/PMSI-AlignAlytics/dimple.git --save
 
